@@ -1,0 +1,21 @@
+{
+  "name": "Cypress-Discovery",
+  "version": "1.0.0",
+  "description": "Projeto de testes de aceutacao - APP BurgerEats",
+  "main": "index.js",
+  "scripts": {
+    
+    "cypress open": "npx cypress open",
+    "cypress run": "npx cypress run"
+  },
+  "keywords": [],
+  "author": "Jose Arilson",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.3.1",
+    "cypress-file-upload": "^5.0.8",
+    "factory": "^1.0.5",
+    "faker": "^6.6.6",
+    "gerador-validador-cpf": "^5.0.2"
+  }
+}
